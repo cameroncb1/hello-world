@@ -9,3 +9,8 @@ Extra Ideas
 
 It's not impossible to add additional information later, in a separate branch, so as not to interfere with
 the master branch.
+
+Even More New Ideas
+-------------------
+
+Why don't we add and commit another bunch of information?
